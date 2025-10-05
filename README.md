@@ -1,2 +1,2 @@
 # Gubuntu
-Basically Ubuntu without any canonical bullshit AND stock GNOME. Picture Kubuntu but with stock GNOME.
+Basically Ubuntu without any canonical BS & stock GNOME. Picture Kubuntu but with stock GNOME.
