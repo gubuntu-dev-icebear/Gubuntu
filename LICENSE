@@ -1,3 +1,8 @@
+This project contains components under other licenses:
+- The Linux kernel: GNU GPL v2
+- GNU utilities and system libraries: various GPL/LGPL
+- My custom files: MIT License (see below)
+
 MIT License
 
 Copyright (c) 2025 gubuntu-dev-icebear
