@@ -1,4 +1,4 @@
-# Gubuntu
+# gnomix 
 A stripped-down minimal custom version of Ubuntu, with pure GNOME.
 Gubuntu is a community remix of Ubuntu. It is not affiliated with or endorsed by Canonical Ltd.
 Join the unhinged server
